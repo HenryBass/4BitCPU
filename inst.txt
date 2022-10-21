@@ -1,0 +1,17 @@
+0: A In
+1: A Out
+2: B In
+3: B Out
+4: Inc Mem
+5: Dec Mem
+6: Write Mem
+7: Read Mem
+8:
+9:
+a:
+b:
+c:
+d:
+e:
+f:
+
