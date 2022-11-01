@@ -1,16 +1,16 @@
-0: NOP
-1: STA
-2: LDA
-3: STB
-4: LDB
-5: CLR
-6: ADD
-7: SUB
-8: CMP
-9: 
-a: 
-b:
-c:
+0: NOP - No Operation              - Done
+1: STA - Store A                   - Done
+2: LDA - Load A                    - Fix needing 2 ticks
+3: STB - Store B                   - Done
+4: LDB - Load B                    - Fix needing 2 ticks
+5: CLR - Clear                     - Done
+6: ADD - Add                       - Done
+7: SUB - Subtract                  - Done
+8: CMP - Compare                   - Done
+9: DIZ - Do Next Instruction if 0  - 
+a: SRA - Set Ram A                 -
+b: IRO - Increment ROM by A        -
+c: DRO - Decrement ROM by A        -
 d:
-e: INCA
-f: INCB
+e: 
+f: 
